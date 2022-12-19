@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material Docs</title>
+    <link>https://bicskerendelo.hu/</link>
+    <description>Recent content on Material Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language><atom:link href="https://bicskerendelo.hu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bicskei Egészségügyi Központ elérhetőség</title>
+      <link>https://bicskerendelo.hu/</link>
+      <pubDate>Fri, 03 Jun 2022 02:05:11 +0100</pubDate>
+      
+      <guid>https://bicskerendelo.hu/</guid>
+      <description>Cím: 2060 Bicske, Kossuth tér 17.
+Telefon 08:00 - 16:00 között: +36 22 567 520
+Szakrendelések
+{{ with .Resources.Get &amp;ldquo;images/map.png&amp;rdquo; }} {{ end }}</description>
+    </item>
+    
+  </channel>
+</rss>
